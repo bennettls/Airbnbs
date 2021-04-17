@@ -1,1 +1,1 @@
-#Interactive web map of Airbnbs in Buncombe County, NC.
+Interactive web map of Airbnbs in Buncombe County, NC.
